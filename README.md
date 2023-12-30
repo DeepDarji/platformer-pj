@@ -1,5 +1,5 @@
 # Platformer PJ
-![Platformer PJ Gameplay](/thumbnail.png)
+![Platformer PJ Thumbnail](/thumbnail.PNG)
 
 ## Overview
 
